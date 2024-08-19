@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: "Open Sans", sans-serif;
+}
+
+a{
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+    color: #555555;
+    margin-left: 17px;
+    margin-right: 35px;
+}
+
+.title{
+    width: 969px;
+    height: 256px;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 64px;
+    margin-top: 42px;
+    margin-bottom: 42px;
+}
+
+.header p{
+    margin-left: 235px;
+    margin-right: 366px;
+}
+
+.header .creditos{
+    margin-top: 33px;
+    margin-bottom: 26px;
+}
+
+.header .creditos .autor{
+    margin-bottom: 12px;
+}
+
+.header .creditos .data{
+    padding-bottom: 26px;
+    border-bottom: 1px solid #B0AFAF;
+
+}
+
+/* .linha{
+    border: 1px solid #B0AFAF;
+    width: 1020px;
+} */
+
+.main .artigo-1{
+    margin-top: 69px;
+    margin-bottom: 18.15px;
+}
+
+.main .artigo-1 strong{
+    color: #A6130A;
+}
+
+.main .artigo-1 .texto-1{
+    margin-bottom: 14px;
+    margin-left: 374px;
+    margin-right: 375px;
+}
+
+.main .artigo-1 .lista{
+    margin-bottom: 25px;
+    margin-left: 383px;
+    margin-right: 382px;
+    padding-left: 18px;
+    color: #A6130A;
+}
+
+.main .artigo-1 .texto-2{
+    margin-top: 25px;
+    margin-left: 375px;
+    margin-right: 385px;
+    margin-bottom: 17px;
+}
+
+.main .artigo-1 .texto-3{
+    margin-top: 25px;
+    margin-left: 375px;
+    margin-right: 382px;
+    margin-bottom: 17px;
+}
+
+.artigo-2 h3{
+    margin-left: 375px;
+    margin-right: 643px;
+    margin-bottom: 32.05px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 32px;
+}
+
+.artigo-2 h2{
+    margin-left: 375px;
+    margin-right: 628px;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 36px;
+}
+
+.artigo-2 .texto-1{
+    margin-left: 375px;
+    margin-right: 396px;
+    margin-top: 18.8px;
+    margin-bottom: 22px;
+}
+
+.artigo-2 .citacao{
+    margin-top: 22px;
+    margin-left: 375px;
+    margin-right: 386px;
+    margin-bottom: 24px;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 36px;
+    border-left: 3px solid #A6130A;
+    padding-left: 14px;
+}
